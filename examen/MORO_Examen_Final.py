@@ -69,17 +69,6 @@ class Oficina:
                 return a
             a =+ 1 
         print("no se encontro la impresora...")
-                
-        
-            
-            
-        
-    
-    
-        
-
-        
-
 
 
 # Menú para interactuar con las impresoras y la oficina
